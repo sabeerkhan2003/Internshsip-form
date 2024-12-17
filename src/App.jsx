@@ -1,6 +1,6 @@
 import logo from "./assets/Logo.png";
 import './App.css';
-import Form from './form';
+import Form from './Form';
 import Globe from "./components/ui/globe"; // Adjust according to your project structure
 
 function App() {
